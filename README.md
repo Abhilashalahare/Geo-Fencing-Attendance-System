@@ -44,7 +44,7 @@ A full-stack automated attendance solution that replaces manual logs with GPS-ba
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/JayaantKumar/gps-tracker.git](https://github.com/JayaantKumar/gps-tracker.git)
+    git clone [https://github.com/Abhilashalahare/Geo-Fencing-Attendance-System.git]
     cd gps-tracker
     ```
 
