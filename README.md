@@ -92,6 +92,6 @@ The system utilizes the **Haversine Formula** on the backend to calculate the pr
 
 ## 📬 Contact
 
-**Jayaant Kumar**
-* [GitHub Profile](https://github.com/JayaantKumar)
-* [LinkedIn](https://www.linkedin.com/in/jaayant-kumar)
+**Abhilasha Lahare**
+* [GitHub Profile](https://github.com/Abhilashalahare)
+* [LinkedIn](https://www.linkedin.com/in/abhhilashha/)
