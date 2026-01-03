@@ -43,8 +43,8 @@ const importData = async () => {
     // Create Geofence
     await Geofence.create({
       name: 'RCET Main Campus',
-      center: { lat: 21.2346, lng: 81.3444 }, // RCET, Bhilai
-      radiusMeters: 200,
+      center: { lat: 24.2346, lng: 84.3444 }, // RCET, Bhilai
+      radiusMeters: 400,
     });
 
     console.log('Data Imported!');
