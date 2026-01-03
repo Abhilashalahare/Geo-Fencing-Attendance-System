@@ -19,7 +19,7 @@ const app = express();
 // We allow both your Localhost (for testing) and your Vercel App (for production)
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://geo-fencing-attendance-system.vercel.app/" 
+  "https://geo-fencing-attendance-system.vercel.app" 
 ];
 
 app.use(cors({
